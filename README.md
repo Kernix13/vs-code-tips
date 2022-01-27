@@ -1,5 +1,7 @@
 # VSCode Tips and Tricks
 
+This is a list of common and less well known tips, not a comprehensive list.
+
 ## Common Shortcuts
 
 **Note**: The shortcuts involving a letter are Uppercase to make them easier to read but they can be lowercase as well (and usually are).
@@ -9,7 +11,7 @@
 1. `CTRL+P` to search for file and open
 1. `CTRL+TAB` to cycle thru open tabs
 1. `CTRL+,` to open Setings page
-1. `CTRL+J` or ` CTRL+`` to toggle terminal/command line
+1. `CTRL+J` or ` CTRL+``` to toggle terminal/command line
 1. `CTRL+B` to toggle sidebar
 1. `CTRL+L` to select multiple lines
 1. `F1` to open command palette
@@ -42,3 +44,5 @@
 ## Bottom bar icons
 
 1.
+
+https://github.com/microsoft/vscode-tips-and-tricks
