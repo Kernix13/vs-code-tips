@@ -45,4 +45,8 @@ This is a list of common and less well known tips, not a comprehensive list.
 
 1.
 
+Here is a GitHub repo that has a lot of VS Code tips (redundant?):
+
 https://github.com/microsoft/vscode-tips-and-tricks
+
+However, it's really comprehensive. I think a more scaled-down version would be useful for beginners, as opposed to advanced users.
