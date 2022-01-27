@@ -9,7 +9,7 @@
 1. `CTRL+P` to search for file and open
 1. `CTRL+TAB` to cycle thru open tabs
 1. `CTRL+,` to open Setings page
-1. `CTRL+J` or ` CTRL+```  ` to toggle terminal/command line
+1. `CTRL+J` or ` CTRL+`` to toggle terminal/command line
 1. `CTRL+B` to toggle sidebar
 1. `CTRL+L` to select multiple lines
 1. `F1` to open command palette
