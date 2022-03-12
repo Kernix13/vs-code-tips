@@ -68,3 +68,12 @@ Change terminal from Powershell on Windows to Git Bash:
 - scroll way down to `Terminal > Integrated > Default Profile: Windows`
 - Change the default setting of `null` to `Git Bash`
 
+
+### Sync settings
+
+Token: `vscode://vscode.github-authentication/did-authenticate?windowid=1&code=65f1d44f88df48757226&state=37a8812e-7497-4649-a292-12b3eef4f8be`
+
+1. Copy the token.
+2. Switch back to VS code.
+3. Click Signing in to github.com... in the status bar.
+4. Paste the token and hit enter.
