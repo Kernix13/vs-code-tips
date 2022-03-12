@@ -23,6 +23,9 @@ This is a list of common and less well known tips, not a comprehensive list.
 1. `CTRL+SHIFT+O` to open the command palette and show the names of the variables and functions in a long file
 1. `CTRL+SHIFT+Arrow-down` to copy cursor focus line or selected line(s) down, Arrow-Up to copy it up
 1. `ALT+Arrow-Up` or Down to move a line up or down
+1. `F1` to open command palette - try out ~Emmet: Wrap with abbreviation`
+1. `F2` while on a var or function name to rename throught out your project 
+1. `SHIFT+ALT+F` to format the entire document, or `CTRL+K CTRL+F` for current selection
 
 ## HTML Tab Triggers
 
@@ -57,4 +60,11 @@ However, it's really comprehensive. I think a more scaled-down version would be 
 2. Click the left sidebar debug icon
 3. Clik the gear icon at the top to select the browser - BRAVE is not an option!
 4. Check out Stackoverflow: [How to attach the VSCode debugger to the Brave browser?](https://stackoverflow.com/questions/53380075/how-to-attach-the-vscode-debugger-to-the-brave-browser)
+
+## Miscellaneous
+
+Change terminal from Powershell on Windows to Git Bash:
+- in settings search for `terminal`
+- scroll way down to `Terminal > Integrated > Default Profile: Windows`
+- Change the default setting of `null` to `Git Bash`
 
