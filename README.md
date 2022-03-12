@@ -71,7 +71,7 @@ Change terminal from Powershell on Windows to Git Bash:
 
 ### Sync settings
 
-Token: `vscode://vscode.github-authentication/did-authenticate?windowid=1&code=65f1d44f88df48757226&state=37a8812e-7497-4649-a292-12b3eef4f8be`
+Token: `vscode://vscode.github-authentication/did-authenticate?windowid=1&code=ENTER_CODE_HERE`
 
 1. Copy the token.
 2. Switch back to VS code.
