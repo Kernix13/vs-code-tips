@@ -50,3 +50,11 @@ Here is a GitHub repo that has a lot of VS Code tips (redundant?):
 https://github.com/microsoft/vscode-tips-and-tricks
 
 However, it's really comprehensive. I think a more scaled-down version would be useful for beginners, as opposed to advanced users.
+
+## Debugging
+
+1. You need an HTML and JS file
+2. Click the left sidebar debug icon
+3. Clik the gear icon at the top to select the browser - BRAVE is not an option!
+4. Check out Stackoverflow: [How to attach the VSCode debugger to the Brave browser?](https://stackoverflow.com/questions/53380075/how-to-attach-the-vscode-debugger-to-the-brave-browser)
+
