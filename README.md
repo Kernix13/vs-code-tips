@@ -61,6 +61,19 @@ However, it's really comprehensive. I think a more scaled-down version would be 
 3. Clik the gear icon at the top to select the browser - BRAVE is not an option!
 4. Check out Stackoverflow: [How to attach the VSCode debugger to the Brave browser?](https://stackoverflow.com/questions/53380075/how-to-attach-the-vscode-debugger-to-the-brave-browser)
 
+Video: The New Way To Debug JavaScript in VS Code - No Extension Required by James Q Quick
+
+- need to have your JS app running locally so open with live server
+- I need to switch to Chrome - after clicking the gear icon select chrome and then you get a JSON config file called launch.json
+- live server runs on port 5500 so change the config file from 8000 to 5500 
+- then click the play button top left to trigger the debugging instance 
+- your app will then relaunch in chrome 
+
+Actual debugging
+- you need to create a breakpoint inside of vs code to do the debugging
+- you create a brakpoint by clicking the red dot to the line of the line numbers - start at the top of your code
+- then click the run button again 
+
 ## Miscellaneous
 
 Change terminal from Powershell on Windows to Git Bash:
