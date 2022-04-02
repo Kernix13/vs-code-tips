@@ -90,3 +90,8 @@ Token: `vscode://vscode.github-authentication/did-authenticate?windowid=1&code=E
 2. Switch back to VS code.
 3. Click Signing in to github.com... in the status bar.
 4. Paste the token and hit enter.
+
+Testing ins and u tags:
+
+<ins>underlined text with INS</ins>
+<u>underlined text with U TAG</u>
