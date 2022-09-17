@@ -97,3 +97,17 @@ Testing ins and u tags:
 <ins>underlined text with INS</ins>
 
 <u>underlined text with U TAG</u>
+
+## INSTALL UPDATED VERSION OF NODE.JS
+
+>  ERROR: node -v gives v12.18.2 and in d\l folder is v16.13.0 
+
+- think I need to update node.js and maybe npm too
+- [How to update Node.js and NPM to next version](https://www.geeksforgeeks.org/how-to-update-node-js-and-npm-to-next-version/)
+
+```shell
+nvm install <version>
+nvm list
+nvm use <version>
+npm install -g npm
+```
