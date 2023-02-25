@@ -14,19 +14,20 @@ This is a list of common and less well known tips, not a comprehensive list.
 1. `CTRL+J` or ` CTRL+``` to toggle terminal/command line
 1. `CTRL+B` to toggle sidebar
 1. `CTRL+L` to select multiple lines
-2. `CTRL+ARROWS` to jump between words, that's Arrow Left and Arrow Right
-3. `F1` to open command palette
-4. `F1` + type 'format' for format a selection or a document
-5. `F1` + start typing _emmet_ and select "Emmet: Wrap with Abbreviation". Best for wrapping a block of HTML with a tag
-6. Double-click 'item' then `CTRL+D` to select other occurrences
-7. `ALT+Click` for multiple cursors
-8. `CTRL+F` to open search box, then `ALT+R` to toggle RegEx option
-9. `CTRL+SHIFT+P` to open the command palette and show the names of the variables and functions in a long file
-10. `CTRL+SHIFT+Arrow-down` to copy cursor focus line or selected line(s) down, Arrow-Up to copy it up
-11. `ALT+Arrow-Up` or Down to move a line up or down
-12. `F1` to open command palette - try out ~Emmet: Wrap with abbreviation`
-13. `F2` while on a var or function name to rename throught out your project 
-14. `SHIFT+ALT+F` to format the entire document, or `CTRL+K CTRL+F` for current selection
+1. `CTRL+ARROWS` to jump between words, that's Arrow Left and Arrow Right
+1. `F1` to open command palette
+1. `F1` + type 'format' for format a selection or a document
+1. `F1` + start typing _emmet_ and select "Emmet: Wrap with Abbreviation". Best for wrapping a block of HTML with a tag
+1. Double-click 'item' then `CTRL+D` to select other occurrences
+1. `ALT+Click` for multiple cursors
+1. `CTRL+F` to open search box, then `ALT+R` to toggle RegEx option
+1. `CTRL+SHIFT+P` to open the command palette and show the names of the variables and functions in a long file
+1. `CTRL+SHIFT+Arrow-down` to copy cursor focus line or selected line(s) down, Arrow-Up to copy it up
+1. `ALT+Arrow-Up` or Down to move a line up or down
+1. `F1` to open command palette - try out ~Emmet: Wrap with abbreviation`
+1. `F2` while on a var or function name to rename throught out your project
+1. `SHIFT+ALT+F` to format the entire document, or `CTRL+K CTRL+F` for current selection
+1. `SHIFT+CTRL+arrow-right` or `arrow-left` - selects groups of characters like words, keywords, numbers - similar to double-clicking in a word doc or webpage and then dragging your mouse.
 
 ## HTML Tab Triggers
 
@@ -66,22 +67,23 @@ Video: The New Way To Debug JavaScript in VS Code - No Extension Required by Jam
 
 - need to have your JS app running locally so open with live server
 - I need to switch to Chrome - after clicking the gear icon select chrome and then you get a JSON config file called launch.json
-- live server runs on port 5500 so change the config file from 8000 to 5500 
-- then click the play button top left to trigger the debugging instance 
-- your app will then relaunch in chrome 
+- live server runs on port 5500 so change the config file from 8000 to 5500
+- then click the play button top left to trigger the debugging instance
+- your app will then relaunch in chrome
 
 Actual debugging
+
 - you need to create a breakpoint inside of vs code to do the debugging
 - you create a brakpoint by clicking the red dot to the line of the line numbers - start at the top of your code
-- then click the run button again 
+- then click the run button again
 
 ## Miscellaneous
 
 Change terminal from Powershell on Windows to Git Bash:
+
 - in settings search for `terminal`
 - scroll way down to `Terminal > Integrated > Default Profile: Windows`
 - Change the default setting of `null` to `Git Bash`
-
 
 ### Sync settings
 
@@ -100,7 +102,7 @@ Testing ins and u tags:
 
 ## INSTALL UPDATED VERSION OF NODE.JS
 
->  ERROR: node -v gives v12.18.2 and in d\l folder is v16.13.0 
+> ERROR: node -v gives v12.18.2 and in d\l folder is v16.13.0
 
 - think I need to update node.js and maybe npm too
 - [How to update Node.js and NPM to next version](https://www.geeksforgeeks.org/how-to-update-node-js-and-npm-to-next-version/)
