@@ -2,11 +2,19 @@
 
 These are my current extensions as of February 15, 2023:
 
+1. .NET Runtime Install Tool
 1. Astro
+1. C#
+1. EJS Language Support
 1. ES7 React/Redux/GraphQL/React-Native Snippets
+1. Figma for VS Code
 1. GitHub Theme
 1. JavaScript (ES6) code snippets
+1. Inlellicode for C# Dev Kit
+1. Laravel Blade Snippets
 1. Live Server
+1. Markdown Preview Mermaid Support
+1. PHP Namespace Resolver
 1. PostCSS Language Support
 1. Prettier - Code formatter
 1. vscode-icons
