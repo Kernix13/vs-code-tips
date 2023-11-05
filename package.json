@@ -1,0 +1,23 @@
+{
+  "name": "vs-code-tips",
+  "version": "1.0.0",
+  "description": "This is a list of common and less well known tips, not a comprehensive list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kernix13/vs-code-tips.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kernix13/vs-code-tips/issues"
+  },
+  "homepage": "https://github.com/Kernix13/vs-code-tips#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}

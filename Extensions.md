@@ -34,3 +34,17 @@ These are my current extensions as of February 15, 2023:
 1. MarkDown All in One: don't think so
 1. Thunder Client: Lightweight Rest API Client to test API
 1. `PolaCode`: polaroid for your code
+
+```js
+/**
+ * Add 2 numbers together
+ * @param {number} x The first number to add
+ * @param {number} y The second number to add
+ * @returns number
+ */
+function add(x, y) {
+  return x + y;
+}
+
+add(2, 2);
+```
