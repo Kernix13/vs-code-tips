@@ -1,5 +1,7 @@
 # Notes
 
+Notes from the video by freeCodeCamp ~ 6hrs long
+
 ## Best Of
 
 - ✅ `CTRL` + `SPACEBAR` to activate Intellisense
@@ -545,7 +547,7 @@ You work faster when you don't use your mouse
 
 ### Miscellaneous
 
-1. ✅ `CTRL`+ `R` to go to [VS Code Windowws Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+1. ✅ `CTRL`+ `R` to go to [VS Code Windows Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 1. `CTRL` + `T` to search for Fxs in your project - "Go to symbol" - ???
 1. `CTRL` + `arrow right` or `arrow left`: jumpt to next whitespace or symbol vs Cursor Smooth setting
 1. `CTRL` + `SPACEBAR` to activate Intellisense
