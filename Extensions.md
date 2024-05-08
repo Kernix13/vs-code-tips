@@ -48,3 +48,26 @@ function add(x, y) {
 
 add(2, 2);
 ```
+
+## New Essential Extensions list
+
+1. Prettier
+2. GitHub CoPilot
+3. Live Server
+4. Multiple Cursor Case Preserve
+5. Git History
+6. Git Lens
+7. Code Runner
+8. Markdown Preview Enhanced
+9. Console Ninja - show `console.log` result in the editor
+10. `Regex Snippets` - !!! - 7:00 from https://youtu.be/bBTgcO6CKv0?si=zRa1NfxjBduLxxVH
+11. Polacode
+12. Code Spell Checker
+13. Document This - JSDoc comments
+14. ChatGPT
+15. Peacock
+16. Postman
+17. REST Client
+18. Bookmarks
+19. Codiumate by CodiumAI
+20. Quokka.js
