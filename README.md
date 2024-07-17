@@ -10,6 +10,7 @@ This is a list of common and less well known tips, not a comprehensive list.
 1. `ALT+#` to switch between open tabs (not numpad numbers)
 1. `CTRL+P` to search for file and open
 1. `CTRL+TAB` to cycle thru open tabs
+1. `CTRL+ENTER` while anywhere in a line of code to place your cursor on a new line for the next line of code
 1. `CTRL+,` to open Setings page
 1. `CTRL+J` or ` CTRL+``` to toggle terminal/command line
 1. `CTRL+B` to toggle sidebar
