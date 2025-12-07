@@ -32,7 +32,7 @@ This is a list of common and less well known tips, not a comprehensive list.
 
 ## HTML Tab Triggers
 
-1.
+1. `!` for HTML boilerplate
 
 ## CSS Tab Triggers
 
@@ -41,7 +41,7 @@ This is a list of common and less well known tips, not a comprehensive list.
 
 ## JavaScript Tab Triggers
 
-1.
+1. `clg` for `console.log(object)`
 
 ## Top bar icons
 

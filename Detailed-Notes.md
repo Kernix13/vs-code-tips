@@ -553,6 +553,7 @@ You work faster when you don't use your mouse
 1. `CTRL` + `SPACEBAR` to activate Intellisense
 1. Command Palette: `CTRL` + `SHIFT` + `P`
 1. Balanace outward for emmet???
+1. `F1` -> Command Palette - I often use `Emmet: Wrap with Abbreviation` for HTML in .html files and in markdown - `CTRL` + `SHIFT`+ `P` also opens the command palette
 
 ### Tabs
 
